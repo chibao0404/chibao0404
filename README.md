@@ -131,10 +131,3 @@ A research extension of the upstream SGMSE+ framework exploring a Conformer-styl
 
 ---
 
-<div align="center">
-
-### 📫 Open to Backend / Full-Stack Developer Intern opportunities
-
-Thanks for visiting my profile!
-
-</div>

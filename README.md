@@ -10,15 +10,13 @@ Building backend-focused web applications, realtime systems, and exploring appli
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open_to-Backend_%2F_Full--Stack_Internships-2ea44f?style=for-the-badge)
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎯 Looking for **Backend / Full-Stack Developer Intern** opportunities.
+- 🏫 Studying at University of Information Technology.
 - ⚙️ I enjoy building **REST APIs, authentication systems, database-backed applications, and realtime features**.
 - 🧩 My main backend stack is **Java, Spring Boot, Spring Security, PostgreSQL**, with **React / TypeScript** on the frontend.
 - 🤖 I also explore **Machine Learning and speech enhancement research with PyTorch**.

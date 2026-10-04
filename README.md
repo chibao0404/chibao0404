@@ -10,7 +10,6 @@ Building backend-focused web applications, realtime systems, and exploring appli
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-chibao0404-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chibao0404)
 ![Open to Work](https://img.shields.io/badge/Open_to-Backend_%2F_Full--Stack_Internships-2ea44f?style=for-the-badge)
 
 </div>
@@ -43,7 +42,6 @@ Building backend-focused web applications, realtime systems, and exploring appli
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Database, Infrastructure & Tools
 
@@ -53,7 +51,6 @@ Building backend-focused web applications, realtime systems, and exploring appli
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ---
@@ -116,18 +113,3 @@ A research extension of the upstream SGMSE+ framework exploring a Conformer-styl
 - Worked with speech-enhancement evaluation tooling including **PESQ, ESTOI, SI-SDR, SI-SIR, and SI-SAR**.
 
 ➡️ **[View repository](https://github.com/chibao0404/sgmse-conformer)**
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chibao0404&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chibao0404&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
-
-</div>
-
----
-
